@@ -1,6 +1,7 @@
 # YandexLyceum
 def my_superfunction():
     print('What an awesome print!')
+    print("Hello, git!!!")
 
 
 def main():
